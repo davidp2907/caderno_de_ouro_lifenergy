@@ -235,7 +235,7 @@ function App() {
           alert("Erro ao enviar os dados.");
         });
 
-      window.location.href = "https://www.lifenergy.com.br/"; // redirciona para o site do life
+      window.location.href = "https://www.lifenergy.com.br/"; // redireciona para o site do life
     }
   }
 
